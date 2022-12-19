@@ -47,13 +47,13 @@ Reference the [Assembly Guide](/Documentation/Wearable_Clap_Switch_Assembly_Guid
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Wearable_Clap_Switch_Design_Rationale](/Documentation/Wearable_Clap_Switch_Design_Rationale_V1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Wearable_Clap_Switch_Maker_Checklist](/Documentation/Wearable_Clap_Switch_Maker_Checklist_V1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Wearable_Clap_Switch_Bill_of_Materials](/Documentation/Wearable_Clap_Switch_BOM_V1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [Wearable_Clap_Switch_3D_Printing_Guide](/Documentation/Wearable_Clap_Switch_3D_Printing_Guide_V1.0.pdf)     |
-| Assembly Guide       | 1.0     | [Wearable_Clap_Switch_Assembly_Guide](/Documentation/Wearable_Clap_Switch_Assembly_Guide_V1.0.pdf)     |
-| User Guide           | 1.0     | [Wearable_Clap_Switch_User_Guide](/Documentation/Wearable_Clap_Switch_User_Guide_V1.0.pdf)    |
-| Changelog            | 1.0     | [Wearable_Clap_Switch_Changelog](/Documentation/Wearable_Clap_Switch_Changelog_V1.0.pdf)     |
+| Design Rationale     | 1.0     | [Wearable_Clap_Switch_Design_Rationale](/Documentation/Wearable_Clap_Switch_Design_Rationale_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Wearable_Clap_Switch_Maker_Checklist](/Documentation/Wearable_Clap_Switch_Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Wearable_Clap_Switch_Bill_of_Materials](/Documentation/Wearable_Clap_Switch_BOM_v1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Wearable_Clap_Switch_3D_Printing_Guide](/Documentation/Wearable_Clap_Switch_3D_Printing_Guide_v1.0.pdf)     |
+| Assembly Guide       | 1.0     | [Wearable_Clap_Switch_Assembly_Guide](/Documentation/Wearable_Clap_Switch_Assembly_Guide_v1.0.pdf)     |
+| User Guide           | 1.0     | [Wearable_Clap_Switch_User_Guide](/Documentation/Wearable_Clap_Switch_User_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [Wearable_Clap_Switch_Changelog](/Documentation/Wearable_Clap_Switch_Changelog_v1.0.pdf)     |
 
 ### Design Files
  - [CAD Files](/Build_Files/Design_Files)
@@ -67,7 +67,7 @@ Reference the [Assembly Guide](/Documentation/Wearable_Clap_Switch_Assembly_Guid
 ## Attribution
 The original design of the [Wearable Bluetooth Controller for Switch Adapted Toys](https://www.instructables.com/Wearable-BLE-Controller-for-Switch-Adapted-Toys/) was released by [r570sv](https://www.instructables.com/member/r570sv/) under a [CC-BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Updated 3D Printed Receiver Design, code, adn documentation by Brad Wellington / Makers Making Change
+Updated 3D Printed Receiver Design, code, and documentation by Brad Wellington / Makers Making Change.
 
 
 ## License
