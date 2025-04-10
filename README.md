@@ -8,7 +8,6 @@ The original version of this project is called the Wearable Bluetooth Controller
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/wearable-clap-switch)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/wearable-clap-switch/)
 
 ## How to Obtain a Wearable Clap Switch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -33,7 +32,6 @@ The Makers Checklist contains all the steps required to build the device for som
 ### 2. Order the Off-The-Shelf Components
 
 The [Bill of Materials](/Documentation/Wearable_Clap_Switch_BOM.xlsx) lists all of the parts and components required to build the Wearable Clap Switch. The main switch component needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
-
 
 ### 3. Print the 3D Printable components
 
@@ -77,7 +75,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -95,3 +93,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
